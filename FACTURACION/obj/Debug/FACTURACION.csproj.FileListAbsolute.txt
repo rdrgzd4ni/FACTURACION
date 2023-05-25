@@ -1,0 +1,15 @@
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\bin\Debug\FACTURACION.exe.config
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\bin\Debug\FACTURACION.exe
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\bin\Debug\FACTURACION.pdb
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.csproj.AssemblyReference.cache
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.Inicio.resources
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.Properties.Resources.resources
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.csproj.GenerateResource.cache
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.exe
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.pdb
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.registro.resources
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.consulta.resources
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.bodega.resources
+C:\Users\USER2022\source\repos\FACTURACION\FACTURACION\obj\Debug\FACTURACION.login.resources
